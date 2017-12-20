@@ -1,0 +1,22 @@
+{
+  "name": "linkshortener",
+  "version": "1.0.0",
+  "description": "MEAN Stack to develop Web API to shorten URL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeahJunRu/LinkShortener.git#linkshortener"
+  },
+  "keywords": [
+    "linkshortener"
+  ],
+  "author": "SeahJunRu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeahJunRu/LinkShortener/issues"
+  },
+  "homepage": "https://github.com/SeahJunRu/LinkShortener/tree/linkshortener#readme"
+}
