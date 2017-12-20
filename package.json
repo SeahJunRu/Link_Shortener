@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SeahJunRu/LinkShortener.git#linkshortener"
+    "url": "git+https://github.com/SeahJunRu/Link_Shortener.git"
   },
   "keywords": [
     "linkshortener"
@@ -16,7 +16,10 @@
   "author": "SeahJunRu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SeahJunRu/LinkShortener/issues"
+    "url": "https://github.com/SeahJunRu/Link_Shortener/issues"
   },
-  "homepage": "https://github.com/SeahJunRu/LinkShortener/tree/linkshortener#readme"
+  "homepage": "https://github.com/SeahJunRu/Link_Shortener/tree/link_shortener#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
